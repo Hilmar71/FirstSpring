@@ -12,6 +12,10 @@ public class HelloWorld {
 
     public String index() {
 
-        return "Hello world";
+
+        String s = "Hello world Hilmar";
+        return s;
+
     }
+
 }
